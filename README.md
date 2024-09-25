@@ -9,13 +9,13 @@
 
 - 📫 How to reach me **sadman.sami.arnob@gmail.com**
 
-- 📄 Know about my experiences [WWW.SANBCDJKHASC](WWW.SANBCDJKHASC)
+- 📄 Know about my experiences [Resume](https://sadmansami.tiiny.site)
 
 - ⚡ Fun fact **I once built a predictive model to guess the outcome of NHL games, but I'm still trying to beat my own intuition when it comes to predicting which movie I'll like next!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fsdfdsfsdfsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fsdfdsfsdfsd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sadmansami081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fsdfdsfsdfsd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
