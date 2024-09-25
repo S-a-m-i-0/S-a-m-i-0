@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadman Sami</h1>
-<h3 align="center">Hello! I am a 3rd-year Computing Science student at the University of Alberta, passionate about Machine Learning and Artificial Intelligence. I have hands-on experience in developing projects in Python, Node.js, and have worked on several machine learning applications, from text analysis to predictive models. Additionally, I have completed internships with NGOs like Save the Children, where I contributed to impactful projects with a real-world mission. I am keen on exploring innovative solutions using AI and machine learning, both in research and applied contexts.</h3>
+<h3 text-align: justify> Hello! I am a 3rd-year Computing Science student at the University of Alberta, passionate about Machine Learning and Artificial Intelligence. I have hands-on experience in developing projects in Python, Node.js, and have worked on several machine learning applications, from text analysis to predictive models. Additionally, I have completed internships with NGOs like Save the Children, where I contributed to impactful projects with a real-world mission. I am keen on exploring innovative solutions using AI and machine learning, both in research and applied contexts.</h3>
 
 - 🔭 I’m currently working on **Emotion analysis model**
 
